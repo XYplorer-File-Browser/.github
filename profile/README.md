@@ -1,17 +1,3 @@
-Repository Name:
-XYplorer-File-Browser
-
-Organisation Name:
-Explorer Software Labs
-
-Contact Email:
-support@explorersoftwarelabs.dev
-
-Short Description:
-Windows file browser for advanced file management, tabbed navigation, and folder organization.
-
-SEO Meta Description:
-Discover XYplorer for Windows, browse files efficiently, manage folders with tabs, organize documents, and improve productivity using an advanced Windows file browser.
 
 # XYplorer File Browser for Windows
 
